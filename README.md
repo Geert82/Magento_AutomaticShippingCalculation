@@ -26,6 +26,5 @@ Shipping rates will get recalculated when the customer:
   - add items to cart
   - update items in cart
   - remove items from cart
-  - 
   
 https://github.com/Geert82/Magento_AutomaticShippingCalculation/wiki
